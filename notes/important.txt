@@ -1,0 +1,6 @@
+dotnet build
+dotnet watch
+
+Docs:
+1. https://stackup.hashnode.dev/using-vs-code-create-aspnet-core-web-api
+2. https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu-install?tabs=dotnet8&pivots=os-linux-ubuntu-2004
